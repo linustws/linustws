@@ -74,6 +74,6 @@
 
 ###
 
-![Snake animation](https://github.com/linustws/linustws/blob/output/github-contribution-grid-snake.svg)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=linustws00&unique={true|1|on|yes})](https://open.spotify.com/user/linustws00)
 
 ###
