@@ -74,6 +74,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/linustws/linustws/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/linustws/linustws/blob/output/github-contribution-grid-snake.svg)
 
 ###
