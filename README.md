@@ -74,6 +74,8 @@
 
 ###
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=linustws00&unique={true|1|on|yes})](https://open.spotify.com/user/linustws00)
+<div align="center">
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=linustws00&width=600&unique={true|1|on|yes})](https://open.spotify.com/user/linustws00)
+</div>
 
 ###
