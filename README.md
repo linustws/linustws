@@ -65,15 +65,17 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=linustws&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="230" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://open.spotify.com/user/linustws00" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=linustws00&width=365&unique=true" height="330" alt="Spotify recently played"  />
+    <img class="spotify-image" src="https://spotify-recently-played-readme.vercel.app/api?user=linustws00&width=846&unique=true" height="330" alt="Spotify recently played"  />
   </a>
 </div>
+
+<style>
+  @media (max-width: 500px) {
+    .spotify-image {
+      width: 365px;
+    }
+  }
+</style>
 
 ###
