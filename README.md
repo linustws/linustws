@@ -66,16 +66,8 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/linustws00" target="_blank">
-    <img class="spotify-image" src="https://spotify-recently-played-readme.vercel.app/api?user=linustws00&width=846&unique=true" height="330" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=linustws00&unique=true" height="330" alt="Spotify recently played" width="100%" />
   </a>
 </div>
-
-<style>
-  @media (max-width: 500px) {
-    .spotify-image {
-      width: 365px;
-    }
-  }
-</style>
 
 ###
