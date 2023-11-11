@@ -26,7 +26,9 @@
 
 ###
 
-<p align="left">I'm a Year 3 NUS Computer Science undergrad with a passion for learning new technologies and creating innovative solutions. My determination shines through as I see every challenge through to completion. An easy-going, open-minded, and adventurous personality, I thrive on exploring new horizons 🤠<br><br>- 🔭 I’m working as a full-time student <br>- 📚 I'm currently taking CS4261, CS3230, CS2106, CS2105 and ACC1701X<br>- ⚡ In my free time I like to dance, game and create stuff</p>
+<p align="left">👋 Hi, I'm a Year 3 NUS Computer Science undergrad passionate about leveraging technology to drive innovation and solve real-world problems. As someone who likes to be efficient, I'm currently exploring ways to streamline workflows, automate processes, and enhance overall system efficiency, as I hone my skills in DevOps.
+
+I'm eager to connect with like-minded professionals, collaborate on exciting projects, and share insights. Feel free to reach out! :)<br><br>- 🔭 I’m working as a full-time student <br>- 📚 I'm currently taking CS4261, CS3230, CS2106, CS2105 and ACC1701X<br>- ⚡ In my free time I like to dance, game and create stuff</p>
 
 ###
 
