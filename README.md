@@ -22,13 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">👋 Hi, I'm a Year 3 NUS Com Science undergrad passionate about leveraging tech to drive innovation and solve real-world problems. As someone who likes to be efficient, I'm currently exploring ways to streamline workflows, automate processes, and enhance overall system efficiency, as I hone my skills in DevOps.
-
-I'm eager to connect with like-minded professionals, collaborate on exciting projects, and share insights. Feel free to reach out! :)<br><br>- 🔭 I’m working as a full-time student <br>- 📚 I'm currently taking CS4261, CS3230, CS2106, CS2105 and ACC1701X<br>- ⚡ In my free time I like to dance, game and create stuff</p>
+<p align="left">🐶 devops, break, eat, sleep.
 
 ###
 
@@ -44,8 +38,6 @@ I'm eager to connect with like-minded professionals, collaborate on exciting pro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
