@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">🐶 devops, break, eat, sleep.
+<p align="left">🐶
 
 ###
 
