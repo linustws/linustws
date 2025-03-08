@@ -1,8 +1,4 @@
-<div align="center">
-  <img height="150" src="https://i.redd.it/fgg1l3wz5dt91.gif"  />
-</div>
-
-###
+<!-- markdownlint-disable MD033 -->
 
 <div align="center">
   <a href="https://t.me/crashoutcookies" target="_blank">
@@ -20,15 +16,9 @@
 
 <h1 align="center">hey there 👋</h1>
 
-###
-
 <p align="left">🐶 Learning and exploring the world of DevOps and SRE. Currently focused on infrastructure automation, CI/CD, and cloud technologies.</p>
 
-###
-
 <h3 align="left">🛠 Tech Stack</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
@@ -54,11 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-###
-
 <h3 align="left">👨‍💻 Current Focus</h3>
-
-###
 
 <div align="left">
   <ul>
@@ -69,11 +55,8 @@
   </ul>
 </div>
 
-###
-
 <div align="left">
   <a href="https://open.spotify.com/user/linustws00" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=linustws00&width=365&unique=true" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=linustws00&width=365" alt="Spotify recently played"  />
   </a>
 </div>
-
