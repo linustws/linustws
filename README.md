@@ -1,6 +1,14 @@
 <!-- markdownlint-disable MD033 -->
 
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=6272A4&center=true&vCenter=true&random=false&width=600&height=100&lines=Hey+there%2C+I'm+Linus!" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<div align="center">
   <a href="https://t.me/crashoutcookies" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
@@ -11,10 +19,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 <p align="left">🐶 Learning and exploring the world of DevOps and SRE. Currently focused on infrastructure automation, CI/CD, and cloud technologies.</p>
 
@@ -55,8 +59,22 @@
   </ul>
 </div>
 
-<div align="left">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=linustws&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=linustws&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=linustws&theme=nord&column=7&no-frame=true" />
+</div>
+
+<div align="center">
+  <h3>🎧 Vibing to</h3>
   <a href="https://open.spotify.com/user/linustws00" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=linustws00&width=365" alt="Spotify recently played"  />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/footer.svg" width="100%">
 </div>
