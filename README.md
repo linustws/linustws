@@ -61,7 +61,7 @@
 <div align="center">
   <h3>🎧 Vibing to</h3>
   <a href="https://open.spotify.com/user/linustws00" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=linustws00&width=365" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=linustws00&width=365&unique=true" alt="Spotify recently played" />
   </a>
 </div>
 
