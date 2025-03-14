@@ -55,7 +55,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=linustws&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=linustws&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=linustws&theme=tokyonight&hide_border=true" height="150" alt="streak graph" /> -->
 </div>
 
 <div align="center">
