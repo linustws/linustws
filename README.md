@@ -1,11 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=6272A4&center=true&vCenter=true&random=false&width=600&height=100&lines=Hey+there%2C+I'm+Linus!" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM0OTIxMzY1YmNmOGZkYzBkMzg5YzQ5YzBmNDg1YTRkYzRkYzRlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=6272A4&center=true&vCenter=true&random=false&width=600&height=100&lines=hey+there%2C+i'm+linus" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -24,9 +20,9 @@
   </a>
 </div>
 
-<p align="left">🐶 Learning and exploring the world of DevOps and SRE. Currently focused on infrastructure automation, CI/CD, and cloud technologies.</p>
+<p align="left">Just building things and figuring stuff out along the way.</p>
 
-<h3 align="left">🛠 Tech Stack</h3>
+<h3 align="left">🛠 Tools I use</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
@@ -40,17 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-<h3 align="left">👨‍💻 Current Focus</h3>
-
-<div align="left">
-  <ul>
-    <li>Kubernetes administration and architecture</li>
-    <li>Infrastructure as Code using Terraform</li>
-    <li>CI/CD with GitHub Actions</li>
-    <li>Cloud services (AWS, GCP)</li>
-  </ul>
 </div>
 
 <div align="center">
