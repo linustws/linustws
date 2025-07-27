@@ -5,10 +5,6 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<div align="center">
   <a href="https://t.me/supwup" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
@@ -20,9 +16,7 @@
   </a>
 </div>
 
-<p align="left">Just building things and figuring stuff out along the way.</p>
-
-<h3 align="left">🛠 Tools I use</h3>
+<p align="left">building and breaking things 😎</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
@@ -39,12 +33,15 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=linustws&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=linustws&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 <div align="center">
-  <h3>🎧 Vibing to</h3>
   <a href="https://open.spotify.com/user/linustws00" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=linustws00&width=365&unique=true" alt="Spotify recently played" />
   </a>
