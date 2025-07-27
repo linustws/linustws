@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <a href="https://t.me/crashoutcookies" target="_blank">
+  <a href="https://t.me/supwup" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=linustws00@gmail.com" target="_blank">
@@ -54,8 +54,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linustws&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=linustws&theme=tokyonight&hide_border=true" height="150" alt="streak graph" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=linustws&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=linustws&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 <div align="center">
